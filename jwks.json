@@ -1,16 +1,11 @@
 {
-    "keys": [
-	{
-    	"p": "_Obw0ow7pcvH0kooCIMxiuTv2IZCT98zVcPWzRoj23EYrhmkqcLeFzl2cTLiki57NzMVdDgPm7MoyG6ZBKMCU0evaVhwGhQaXbBw4gs1GENwpbfhx9pSVQcJm_xP__QqmvBa1Ct_mH6N8PQFbUId2SPjdeK857EEVqAbh9G6eoM",
-    	"kty": "RSA",
-    	"q": "9WVK8recZyC7O_aqMpHL8ClxTiyFs-c86gSIui51MShExNVcN4n8lKN5NZyK6RdB_aLYGMBPZghf0XfDSP-53ka1wqos8YncmzCcwZTkyzMENsi4D4SSHW6BCwO84UvzmG3EELJ_hBL52ZS69mtC3HQuLSn8ZdtW_I5X5nwH8Jc",
-    	"d": "A_8ZLJVNvfHQZz0e4b6pQ9F2RZP3kP8KFBSifa52Hbj8ED23eYGDSZ9nlUyzzI4_Rxy6AlX1Tn0J_udNCkVlrgRGYBFDl8zRBJU-UG9zS8nDafb2NxIPWC1sA8WkguqlEY_39SrYG81yCnkGHC55zzulh_wR1B6P4LIj3_65wgBx3JjIPKsjuptMSlnRHBwDU3c7qWs9OqLKrfMFvE-GqLEzE_rkKb0fw_vumG9uSsfud2VghlDSB-Y_9CiL5tqIqLVbsko7jCwSVpY0HxTms4ZwhZVmrarHxchVtJHgqwcDzbtiTI5dY_e8FSq2Jx9QsD4l-eqZ9rXn12TabyXwGQ",
-    	"e": "AQAB",
-   	"kid": "2a56abce-d543-4894-a7be-037436458b7d",
-   	"qi": "sboag5T8wIc5A3l2yY22vxosSdteZlXAllqKZ4Q3dK6mL_nuGtiiHM-zu0E5rR5FFDx3twWWhvlysV559GMmwPIkLdJvdlkccT9kE3SbHd04fA8iQwJYhEFN6NGSbl0bnBR5d8oUA1SMzCrp5bQPdfZAaQ5dLgg457zIP8H5RSQ",
-    	"dp": "ScJpNl8j_mUCsHhkWKc6ydGfij0OFhF4_WiSu1sGXjgMBKsB9WkaMRfXTYiTwCLCWQUTGsRG-Rg1qs9m3Y1VXkioBkd-2nxGfFC7e5HdOGhi8FJDDXDFVnso-E-MXZAu5OV4-Cx_mFBAwafJ9WW1IuFus7Efe0uLgmBL5z7p7lU",
-   	"dq": "MQhfVGY5uyWAI_gig947-K3fNPaSdKMEueHUDBeSVRMtwoK7XWGV9YFAi-TOoMqD5hEuyqtKciHEO4-JlsF6Ox633MCyIEUirmOlPszodm2oLuYmWPttUrIs2K2ThRTvBIsSPR_deN9tyvr77Jb8Eh6ox193Tkbod6hdifFIiNs",
-   	"n": "8m0VoQyWhYjBOJDB1wqqPkDBgJPwHZ658Fc87Gqsiuxst-pSpzxfhc2sYbDVvfMSC8Dz7ix2M4wattpb7gAti4FHEjT_BR7OwwYWxAse0AIV7KjAIEpPk5BlIObzVlV837x_dqolx-Eo1KdUWvATK9lSRrSzXjV0f3uiGvcIOojhY7OsxsbMyus92B1z7q5M9ultXnOHrcz4ltPX4LvfoWNFVvgxulhr3W7jdibCN8PB5eiac234JAwe4LKRKpAZroeT_rXvFuh_PkFd-4WBwEaetiIaEHngcTUKKiDjK8KOV_UCPBSdKyaPIaE8NaPEv7IOWw3RadNyYzfeVW4TRQ"
-	}
+    "keys":[
+        {
+            "kty":"RSA",
+            "kid":"jwt_tool",
+            "use":"sig",
+            "e":"AQAB",
+            "n":"xdcsSwO0ds7O2jEvHTy0oQ6N9_9mroc0IEuzVBe65IYHHcli-VFYlLfAmj_2GN2DWTtOKJBpVMvSLzp25B6BjFJ-6KERQoOo5LttMcbN6SWbhnYoRipTl6Bh7lZfcmz7tZikZkJ4LVt7akUBl6PL6gO1h3lNiiti4qd81io3o2ebWTw4Ey_Rd7QlWDFxNWDowWW58vXb23NeHet6ORmDzBHri7F77hVQHpIrYl1TpEwf6T1hHetwOpx4AsQz1OOj5wSirrrKW7r0MK-r7e9f7BOjc2eWT65UYxNuW15fWLEJvB_z7CYr7qKybAqor9JYcGEMzL5ASBBvqkOsvWix2Q"
+        }
     ]
 }

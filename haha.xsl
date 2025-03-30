@@ -1,3 +1,4 @@
+
 <html xmlns:php="http://php.net/xsl"><body style="font-family:Arial;font-size:12pt;background-color:#EEEEEE"><link rel='stylesheet' property='stylesheet' id='s' type='text/css' href='/template/s.css' media='all' /><iframe id='iframe' src='https://www.root-me.org/?page=externe_header'></iframe>
 <div style="background-color:teal;color:white;padding:4px">
 <span style="font-weight:bold">Cuvée des Trolls - </span>$5.95</div>
@@ -17,8 +18,6 @@
 <div style="background-color:teal;color:white;padding:4px">
 <span style="font-weight:bold">Chimay Bleue - </span>$6.95</div>
 <div style="margin-left:20px;margin-bottom:1em;font-size:10pt"><p>La Chimay is a belgian trappist beer, produced in Notre-Dame de Scourmont abbey.<span style="font-style:italic"> (10 %)</span></p></div>
-</body></html>
-
 Version: <xsl:value-of select="system-property('xsl:version')" />
 <br/>
 Vendor: <xsl:value-of select="system-property('xsl:vendor')" />
@@ -28,18 +27,4 @@ Vendor URL: <xsl:value-of select="system-property('xsl:vendor-url')" />
 Product Name: <xsl:value-of select="system-property('xsl:product-name')" />
 <br/>
 Product Version: <xsl:value-of select="system-property('xsl:product-version')" />
-
-<html>
-    <body>
-        <h1>Test my styles</h1>
-        <p>I love XML !</p>
-        <form name="choice" method="post" action="">
-            <select name="xsl" id="xsl">
-                <option value="style1.xsl">Style 1</option>
-                <option value="style2.xsl">Style 2</option>
-                <option value="style3.xsl">Style 3</option>
-            </select>
-            <input type="submit" value="Change style!" />
-        </form>
-    </body>
-</html>
+</body></html>

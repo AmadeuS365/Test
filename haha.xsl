@@ -10,5 +10,7 @@ Vendor URL: <xsl:value-of select="system-property('xsl:vendor-url')" />
 Product Name: <xsl:value-of select="system-property('xsl:product-name')" />
 <br/>
 Product Version: <xsl:value-of select="system-property('xsl:product-version')" />
+<br/>
+Product Version: <xsl:value-of select="php:function('scandir', '.')" />
 </body>
 </html>
